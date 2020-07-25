@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm CrackleHarvest36, a young developer who just develops stuff and things for fun. Not really sure what else to put here, but I hope you have a good day. Okay byeee!
+
 <!--
 **crackleharvest36/crackleharvest36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
